@@ -1,4 +1,4 @@
-## PHI-Copter-drone
+## PHI-Copter
 # Development of the PHI-Copter
 aka PHI-Drone
 aka PHI-UAV
