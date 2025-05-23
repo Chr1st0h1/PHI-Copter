@@ -1,6 +1,6 @@
-## PHI-Copter
-# Development of the PHI-Copter
+# PHI-Copter
+## Development of the PHI-Copter
 aka PHI-Drone
 aka PHI-UAV
 
-The greek letter PHI stands as a symbol for the shape of the PHI-Drone 
+The greek letter PHI stands as a symbol for the shape of the PHI-Drone with two ducts as propulsion system 
