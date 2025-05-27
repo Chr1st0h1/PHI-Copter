@@ -28,6 +28,7 @@
 |-------------------|-----------------------------|----------|----------------------------|-----------------------|
 | Servo's   | Emax ES09MD  | 8 | 0102003014 | (dual-bearing) specific swash servo for 450 helicopters |
 | Servo's | Emax ES08MD II | 8 | xxxxxxxxxx | Mini Metal Digital Servo 13g |
+|Servo's | Savöx SH-0257MG+ | 8 | xxxxxxxxxx | Digital Micro Servo Metal Gear - 2.2kg |
 ---
 
 ## 3. Flight Control & Sensors
