@@ -26,8 +26,8 @@
 
 | Item              | Description                  | Quantity | Part Number / Link         | Notes                 |
 |-------------------|-----------------------------|----------|----------------------------|-----------------------|
-| Servo's   | Emax ES09MD  | 8 |0102003014| (dual-bearing) specific swash servo for 450 helicopters |
-
+| Servo's   | Emax ES09MD  | 8 | 0102003014 | (dual-bearing) specific swash servo for 450 helicopters |
+| Servo's | Emax ES08MD II | 8 | xxxxxxxxxx | Mini Metal Digital Servo 13g |
 ---
 
 ## 3. Flight Control & Sensors
